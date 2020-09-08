@@ -13,9 +13,14 @@ Actual time needed to complete:
 #### feature #1: Display Images
 Estimate of time needed to complete: 1hr
 Start time: 1:20pm
-Finish time:
-Actual time needed to complete:
+Finish time: 2:00pm
+Actual time needed to complete: 40 min
 
 #### Feature #2: Filter images
+
+Estimate of time needed to complete: 1hr
+Start time: 2:04pm
+Finish time: 4:06pm
+Actual time needed to complete: 2hrs
 
 #### Feature #3: Style the application
