@@ -1,6 +1,7 @@
 # lab-02
 
 ## Over-View
+had some help from Chance H. Sara R. and Taylor J.
 
 ### Features
 
