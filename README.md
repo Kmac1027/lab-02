@@ -24,3 +24,8 @@ Finish time: 4:06pm
 Actual time needed to complete: 2hrs
 
 #### Feature #3: Style the application
+
+Estimate of time needed to complete:1hr
+Start time: 4:06pm
+Finish time: 4:34pm
+Actual time needed to complete: about 30 min
